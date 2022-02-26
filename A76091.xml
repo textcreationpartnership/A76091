@@ -1,0 +1,459 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christian queries to Quaking-Christians: Containing [t]hirteen queries modestly propounded to those who are commonly known by the name of Quakers. / [B]y J.B. a Lover of Truth.</title>
+            <author>Batchiler, John, ca. 1615-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76091</idno>
+            <idno type="STC">Wing B1073aA</idno>
+            <idno type="STC">ESTC R32843</idno>
+            <idno type="EEBO-CITATION">12773090</idno>
+            <idno type="OCLC">ocm 12773090</idno>
+            <idno type="VID">171556</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76091)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171556)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1029:15 or 2561:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christian queries to Quaking-Christians: Containing [t]hirteen queries modestly propounded to those who are commonly known by the name of Quakers. / [B]y J.B. a Lover of Truth.</title>
+                  <author>Batchiler, John, ca. 1615-1674.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Author,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound with some loss of text.</note>
+                  <note>Attributed to J.B., and identified as Wing B97 in unit 34, reel position 1029:15 (number cancelled in Wing 2nd ed.).</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171556:1" rendition="simple:additions"/>
+            <p>CHRISTIAN QUERIES TO <hi>Quaking-Christians:</hi> Containing <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>irteen QUERIES modeſtly pro<g ref="char:EOLhyphen"/>pounded to thoſe who are commonly known by the Name of Quakers.</p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <hi>J.B.</hi> a Lover of Truth.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, 1663,</p>
+         </div>
+         <div type="poem" subtype="to_the__reader">
+            <pb facs="tcp:171556:2"/>
+            <pb facs="tcp:171556:2"/>
+            <head>To the <hi>Reader.</hi>
+            </head>
+            <lg>
+               <l>GO little Book, improve thy Scripture-skill,</l>
+               <l>Advance the Truth, and throw down all ſelf-will:</l>
+               <l>When Will's ſubdu'd, then all and ev'ry thought</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto the Law and Will of God is brought:</l>
+               <l>When thus it is, the Soul with love will ſay,</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ord I do yeild, thy Truth will I obey:</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o walk with God my Soul doth more deſire</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen pureſt Gold refined in the fire.</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et <hi>Scripture</hi> be our <hi>Rule,</hi> our <hi>Guard</hi> &amp; <hi>Guide,</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at to ſtrange ways we may not turn aſide.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> any preach (whatever they pretend)</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſides the Rule, God never did them ſend.</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rſt is that man that other Doctrines preacheth</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ntrary unto what Gods Word us teacheht.</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et <hi>Light without,</hi> be <hi>Guide</hi> to <hi>Light within,</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at we on <hi>Truth</hi> (not <hi>Man</hi>) our faith may pin.</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ead o're this Book, and in it you will find</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Author of't to have a ſober mind.</l>
+               <l>Thus leaving you to what this Book doth ſay,</l>
+               <l>I ſhall my Name to it ſubſcribe, <hi>J. A.</hi>
+               </l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171556:3"/>
+            <pb n="1" facs="tcp:171556:3"/>
+            <head>Chriſtian-Queries to Qua<g ref="char:EOLhyphen"/>king-Chriſtians, &amp;c.</head>
+            <p>
+               <label>Qu. 1.</label> HOw, and by what means may Salvation be attained? Whether by adhering to a <hi>Light within us,</hi> or by <hi>Faith</hi> in a <hi>Chriſt without us?</hi> (1.) If the latter be not the beſt way, why is it that the Scrip<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ures do ſo often bid us to believe in <hi>Jeſus Chriſt,</hi> and that by ſo doing we may be ſa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed? 3 <hi>John</hi> 15; 16. <hi>Acts</hi> 16.30, 31. (2.) Or <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the former the better way? If ſo, I would <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen ask further,</p>
+            <p>
+               <label>
+                  <hi>Q.</hi> 2.</label> Whether the <hi>Light within us</hi> be <hi>ſufficient Guide</hi> to direct us unto <hi>true Hap<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ineſs?</hi> And what this <hi>Light</hi> is? Whether <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> every man?</hi> or how to be attained? 1. If his <hi>Light</hi> be ſufficient to Salvation, of what <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe are the <hi>Scriptures?</hi> and why are we at all <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xhorted to <hi>Faith,</hi> which implies ſomething <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t a diſtance, &amp; not yet injoyed? <hi>Heb.</hi> 11.1.</p>
+            <p>
+               <pb n="2" facs="tcp:171556:4"/>
+               <label>
+                  <hi>Q.</hi> 2.</label> Whether is this <hi>Light</hi> the <hi>Conſcience</hi> of every man? Or (3.) is it <hi>Chriſt</hi> in every man? If ſo, why then are not all men ſaved? For if he that has not this <hi>Light,</hi> be out of <hi>Chriſt,</hi> (as you ſay) then all that have this <hi>Light</hi> muſt of neceſſity be in <hi>Chriſt,</hi> and con<g ref="char:EOLhyphen"/>ſequently ſaved? 2 <hi>Cor.</hi> 13.5. 2 <hi>Cor.</hi> 5.17.</p>
+            <p>
+               <label>
+                  <hi>Q.</hi> 3.</label> Whether that <hi>Way</hi> which you teach, &amp; the <hi>Doctrines</hi> you maintain &amp; propagate, be <hi>conſonant</hi> to, &amp; may be <hi>defended</hi> by the <hi>Word of God</hi> contained in the <hi>Scriptures</hi> of the <hi>Old</hi> &amp; <hi>New Teſtament?</hi> 1. Whether it be not neceſ<g ref="char:EOLhyphen"/>ſary to have ſome <hi>Rule</hi> of <hi>Tryal</hi> by which we may <hi>try the Spirits whether they be of God or no?</hi> 1 <hi>John</hi> 4.1, 2, 3. And, (2.) Whether the <hi>Scriptures</hi> be not ſufficient hereunto? Or is there any better way to be propounded for ſuch a Tryal? And, (3.) If there be any better way, why are we directed by the Pro<g ref="char:EOLhyphen"/>phet <hi>Eſay, To the Law, and to the Teſtimony and if any man ſpeak otherwiſe, it is becauſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there is no Light in him, Iſa.</hi> 8.20. And (4.<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Why were the <hi>Bereans</hi> commended fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>ſearching the Scriptures daily, whether thoſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:171556:4"/>things were ſo,</hi> Acts 17.11. Laſtly, If the <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>criptures</hi> are not to be the <hi>Rule</hi> of <hi>Tryal</hi> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r all <hi>Doctrines,</hi> why is it that the Apoſtle <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth ſo <hi>ſeverely,</hi> and that over and over a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>in, pronounce a <hi>curſe</hi> againſt all ſuch as <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould preach any other <hi>Goſpel</hi> than what <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e had already preached? which is only to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e found in the <hi>Scriptures,</hi> Gal. 1.7, 8, 9.</p>
+            <p>
+               <label>
+                  <hi>Q.</hi> 4.</label> Whether all men do or may attain <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erfection</hi> in <hi>this life?</hi> And whether any that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome ſhort of this <hi>Perfection,</hi> may be ſaved? <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, (1.) Whether thoſe Texts of Scripture <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at exhort us to be <hi>perfect,</hi> may not imply <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ertain degrees of <hi>Perfection,</hi> rather than <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erfection</hi> it ſelf, as to the height of it? <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd, (2.) Whether there be not a <hi>Perfection <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Sincerity,</hi> as well as of degrees? And, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.) Whether Believers may not be <hi>perfect</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <hi>imputation of his Righteouſneſs, who know<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g no ſin, yet was made ſin for us, that we <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight be made the Righteouſneſs of God in <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im?</hi> 2 Cor 5.21.</p>
+            <p>
+               <label>
+                  <hi>Q.</hi> 5.</label> Whether <hi>Jeſus Chriſt</hi> did not inſti<g ref="char:EOLhyphen"/>tute
+<pb n="4" facs="tcp:171556:5"/>and appoint certain <hi>Ordinances</hi> under the <hi>Goſpel</hi> for his <hi>Churches</hi> to obſerve and keep until his coming? 1. Did he not inſtitute that <hi>Ordinance</hi> of his <hi>Supper,</hi> and enjoin his <hi>Diſciples</hi> to obſerve it in <hi>remem<g ref="char:EOLhyphen"/>brance of him?</hi> Luke 22.19, 20. And, (2.) Is it not recorded of the <hi>Primitive Church,</hi> how they continued this <hi>Ordinance?</hi> Acts 2.46. 3. Why doth the <hi>Apoſtle Paul</hi> com<g ref="char:EOLhyphen"/>mend the practiſe of it to the <hi>Church</hi> of <hi>Co<g ref="char:EOLhyphen"/>rinth,</hi> and tells them whence he had it? For (ſaith he) <hi>I have received of the Lord that which I deliver'd unto you:</hi> And ſo repeats the manner how it was firſt inſtituted, 1 <hi>Cor.</hi> 11.23, 26. Or, (4.) Are theſe <hi>Ordinances</hi> ceaſed, and now out of date? If ſo, Pray tell us when they firſt expired? Hath not himſelf told us, that they ſhould laſt un<g ref="char:EOLhyphen"/>til his coming? Or is he already come, and we knew it not? If he be, it muſt be only by his ſpiritual preſence, and ſo he was with the <hi>Primitive Church,</hi> and that in a greater meaſure than now-a-days, yet did they continue in all the <hi>Ordinances</hi> of the <hi>Goſpel.</hi> Or, (5.) May we not ra<g ref="char:EOLhyphen"/>ther
+<pb n="5" facs="tcp:171556:5"/>underſtand his coming to be meant of his <hi>ſecond coming,</hi> ſpoken of by the <hi>Angel</hi> at his Aſcenſion, when he ſhall come in like manner as he was ſeen to go into Hea<g ref="char:EOLhyphen"/>ven? <hi>Acts</hi> 1.10, 11.</p>
+            <p>
+               <label>
+                  <hi>Q.</hi> 6.</label> Whether <hi>Chriſtians</hi> are not bound <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the performance of ſuch <hi>Religious du<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies</hi> as were practiſed by the <hi>People of God</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder the <hi>Law,</hi> and not abrogated by the <hi>Goſpel?</hi> 1. Whether <hi>Chriſtians</hi> ought not <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o pray morning and evening? as <hi>David</hi> very <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>requently did; <hi>Evening and morning, and <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t noon, will I pray and cry aloud, and he ſhall <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear my voice,</hi> Pſal. 55.17. Or, (2.) Is it not <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>awful for <hi>Chriſtians</hi> to appoint and ſet a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>art a convenient time and ſeaſon for the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erformance of <hi>Religious Exerciſes,</hi> as did <hi>Daniel?</hi> who notwithſtanding the Kings Command, thought himſelf obliged not <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o omit his duty once, but pray'd three <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mes a day, <hi>Dan.</hi> 6.10, 13. Or, (3.) Are <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re only to pray when our own <hi>Spirits move <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> and not at the motion of <hi>Gods Spirit,</hi> which bids us to pray continually, or to be
+<pb n="6" facs="tcp:171556:6"/>alwaies in a frame, and frequent in the <hi>Duty of Prayer,</hi> 1 <hi>Theſſ.</hi> 5.17. Or, (4.) Whe<g ref="char:EOLhyphen"/>ther it be not a duty incumbent upon all <hi>Chriſtians</hi> to exerciſe <hi>Family-Duties,</hi> as the <hi>People of God</hi> in former times did? Whe<g ref="char:EOLhyphen"/>ther <hi>Parents</hi> ought not to inſtruct their <hi>Children,</hi> and <hi>Maſters</hi> their <hi>Servants,</hi> for which <hi>God</hi> ſo much commended <hi>Abraham,</hi> becauſe he would command his <hi>Children</hi> and his <hi>Houſhold</hi> after him, <hi>Gen.</hi> 18.17, 18.19.5. Whether it be the duty of all <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> frequently to read over, and confer about the holy <hi>Scriptures</hi> both in their <hi>Fa<g ref="char:EOLhyphen"/>milies,</hi> and with others? as the Lord com<g ref="char:EOLhyphen"/>manded the children of <hi>Iſrael, Thou ſhalt teach them diligently unto thy children, and ſhalt talk of them when thou ſitteſt in thy Houſe, and when thou walkeſt by the way, and when thou lyeſt down,</hi> Deut. 6.7. Nay, (6,) Whether is it not neceſſary for all <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> to beg Gods bleſſing with, and return him thanks for every Mercy they receive? according to the practice of our bleſſed Sa<g ref="char:EOLhyphen"/>viour, who when he fed ſo many thouſands, would firſt look up to Heaven for a bleſſing
+<pb n="7" facs="tcp:171556:6"/>upon what they enjoy'd on earth, <hi>Mar.</hi> 6.41, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d after his Reſurrection he practiſed the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me thing among his <hi>Diſciples,</hi> Luke 24.30 Whoſe bleſſed <hi>Example</hi> the <hi>Apoſtle</hi> follow<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, taking bread, and giving thanks in the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſence of them all, <hi>Acts</hi> 27.35. further <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecommending it to the practice of others, <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at in every thing they would give thanks, as <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he will of God in Chriſt Jeſus concerning them, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Theſſ.</hi> 5.18.</p>
+            <p>
+               <label>
+                  <hi>Q.</hi> 7.</label> Whether it be not lawful for <hi>Chriſtians</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o give a <hi>Civil Reſpect</hi> to the ſeveral degrees <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd relations in which perſons may ſtand? As, (1.) Whether the <hi>younger</hi> ought not to <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>everence</hi> the <hi>elder?</hi> as ſaith the <hi>Scripture, Thou ſhalt riſe up before the hoary head, and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onor the face of the old man, Lev.</hi> 19.32. And, (2.) Whether a <hi>Chriſtian</hi> may not evidence <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is reſpect by ſome outward action or ge<g ref="char:EOLhyphen"/>ſture of his body, according to the cuſtom of the Countrey he lives in? as <hi>Abraham bowed</hi> to the <hi>Sons of Heth, Gen.</hi> 23.12. ſo did <hi>Nathan</hi> a <hi>Prophet</hi> to <hi>King David,</hi> 1 <hi>King.</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1.23. And, (3.) Is it not lawful for <hi>Chriſti<g ref="char:EOLhyphen"/>ans</hi>
+               <pb n="8" facs="tcp:171556:7" rendition="simple:additions"/>to expreſs their reſpects by giving to eve<g ref="char:EOLunhyphen"/>ry man the titles belonging to him, in refer<g ref="char:EOLhyphen"/>ence to the ſeveral <hi>Dignities</hi> or <hi>Places</hi> they may be advanced to? As <hi>Luke</hi> doth <hi>Theophi<g ref="char:EOLhyphen"/>lus,</hi> calling him <hi>Moſt Excellent, Luk.</hi> 1.3. ſo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Paul</hi> to <hi>Foelix, Moſt noble Foelix, Acts</hi> 26.25. and <hi>John to the elect Lady,</hi> 2. <hi>John</hi> 1.</p>
+            <p>
+               <label>
+                  <hi>Q.</hi> 8.</label> Whether <hi>Chriſtians</hi> may not make uſe of, and take delight in thoſe creatures God affords us, either for <hi>Food</hi> or <hi>Cloath<g ref="char:EOLhyphen"/>ing?</hi> And, (1.) Whether at ſometimes it be not lawful to feaſt and enjoy the creatures afforded for our uſe in a lawful mirth? pro<g ref="char:EOLhyphen"/>vided it be done in its proper ſeaſon, &amp; with moderation, <hi>Eccleſ.</hi> 3.12, 13. And, (2) Whe<g ref="char:EOLhyphen"/>ther it be lawful for <hi>Chriſtians</hi> to wear what Apparel they ſhall think beſt in their own <hi>Chriſtian Prudence</hi> to be apparrell'd in, if without exceſs? Did not God command the children of <hi>Iſrael,</hi> that they ſhould borrow <hi>Jewels of Silver,</hi> and <hi>Jewels of Gold</hi> of the <hi>Egyptians, Exod.</hi> 11.2. And <hi>Abrahams</hi> Ser<g ref="char:EOLhyphen"/>vant gave unto <hi>Rebecca</hi> Bracelets for her hands, which ſhe alſo wore. <hi>Gen.</hi> 24.22.30.</p>
+            <p>
+               <pb n="9" facs="tcp:171556:7" rendition="simple:additions"/>
+               <label>
+                  <hi>Q.</hi> 9.</label> Whether when <hi>Chriſtians</hi> are met <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gether for the <hi>Worſhip</hi> and <hi>Service of God,</hi> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey may then be <hi>ſilent,</hi> and depart without <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ything don for the edification of one ano<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er? Or, (1.) Whether they ought not rather <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſtir up &amp; exhort one another to continue in the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith and practice of the Goſpel?</hi> As the Apo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>les of old did, who when they met toge<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er, ſpent the time in praying with, and ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orting of one another, <hi>Acts</hi> 1.13, 14. <hi>Acts</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>2.12. 2. Whether to <hi>ſpeake in a ſtrange Tongue,</hi> or to be <hi>wholly ſilent</hi> when the <hi>People</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>God</hi> are met together, be not one and the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me thing? the former of which the Apo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>le forbids, as no way tending to edificati<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, 1 <hi>Cor.</hi> 14.4, to the 20.</p>
+            <p>
+               <label>
+                  <hi>Q.</hi> 10.</label> Whether <hi>Chriſtians</hi> that do not pal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ably contradict the practice of <hi>Godlineſs,</hi> may not live with, and have charity towards <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne another, though <hi>different</hi> in <hi>judgements?</hi> And, (1.) Whether this hath not rendered <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Popiſh-Religion</hi> more odious, becauſe they have ſo little <hi>charity</hi> for any that differ from them, who ſtile all to be <hi>Hereticks</hi> that
+<pb n="10" facs="tcp:171556:8"/>are not of their way? Or, (2.) Whether any of the Apoſtles, or our Saviour himſelf, did ever condemn others upon this account on<g ref="char:EOLhyphen"/>ly, but on the contrary, when the <hi>Apoſtle</hi> told our <hi>Saviour</hi> they had ſeen one caſting out <hi>Devils</hi> in his Name, yet follow'd no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him, Chriſt bids them not forbid him, alled<g ref="char:EOLhyphen"/>ging, that <hi>he which is not againſt us, is with us, Luke</hi> 9.49, 50. And ſo the <hi>Apoſtle</hi> would have <hi>every man perſwaded in his own mind,</hi> Rom. 14.5. And I know no reaſon why ye ſhould condemn any man for being in the dark, becauſe he fees not by your <hi>Light?</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Q.</hi> 11.</label> Whether it be not the duty of <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> to obſerve &amp; ſet apart one day in ſeven for the more ſolemn Service of God? And, (1.) Whether God himſelf did not appoint, and the People of God in all Ages keep ſuch a day? <hi>Geneſis</hi> 2.2, 3. <hi>Exodus</hi> 20.8. 2. Whether the <hi>Sabbath-day</hi> was ever abro<g ref="char:EOLhyphen"/>gated by Jeſus Chriſt, or only changed and another kept in the room of the firſt? And 3. Whether the <hi>firſt day of the Week</hi> be not the
+<pb n="11" facs="tcp:171556:8"/>
+               <hi>true Chriſtian Sabbath?</hi> We read that it was the cuſtom of the <hi>Apoſtles</hi> chiefly to meet on this day, <hi>John</hi> 20.19. <hi>Acts</hi> 20.7. and that they <hi>made collections for the poor</hi> on this <hi>Day,</hi> 1 <hi>Cor.</hi> 16.2. and <hi>John</hi> was <hi>in the Spirit on the Lords day, Rev.</hi> 1.10.</p>
+            <p>
+               <label>
+                  <hi>Q.</hi> 12.</label> Whether it be not lawful for <hi>Chriſtians</hi> to <hi>Swear,</hi> if called thereunto, for the atteſtation of ſome Truth? And, 1. Whe<g ref="char:EOLhyphen"/>ther <hi>Abraham</hi> did ſin in making his Servant to ſwear unto him? <hi>Gen.</hi> 24.3. Or, (2.) Whe<g ref="char:EOLhyphen"/>ther <hi>Swearing</hi> be not a ready way to <hi>put an end to all controverſies?</hi> as the <hi>Apoſtle</hi> ſaith <hi>Heb.</hi> 6.16.</p>
+            <p>
+               <label>
+                  <hi>Q.</hi> 13.</label> Whether it be not the great duty and concernment of every true <hi>Chriſtian</hi> to plead for, and vindicate all ſuch <hi>Goſpel-truths</hi> as he hath formerly received, and yet belie<g ref="char:EOLhyphen"/>veth? And, (1.) Whether a <hi>Chriſtian</hi> may not earneſtly <hi>contend for the Truth once delivered? Jude</hi> 3. And, (2.) Whether it be not the duty of all Chriſtians, <hi>with readineſs to render an account of his Faith to him that asketh him?</hi>
+               <pb n="12" facs="tcp:171556:9"/>1 <hi>Pet.</hi> 3.15. And, (3.) Whether it b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not your Concernment to return ſome ſa<g ref="char:EOLhyphen"/>tisfactory Anſwer to the Author of theſe QUERIES?</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171556:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
